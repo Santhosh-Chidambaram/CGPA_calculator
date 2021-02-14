@@ -1,2 +1,2 @@
 <h1>CGPA Calculator</h1>
-<p>Calculate your CGPA in minutes with ease.</p>
+<p>Calculate your CGPA in minutes.</p>
